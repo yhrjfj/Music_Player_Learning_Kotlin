@@ -13,6 +13,7 @@
         android:text="Music Player App"
         android:textSize="35sp"
         android:textStyle="bold"
+        android:textColor="@color/font_color"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
