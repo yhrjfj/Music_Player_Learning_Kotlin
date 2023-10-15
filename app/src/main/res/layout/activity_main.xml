@@ -83,7 +83,7 @@
         app:layout_constraintStart_toStartOf="parent" />
 
     <Button
-        android:id="@+id/pause_icon"
+        android:id="@+id/pause_button"
         android:layout_width="50dp"
         android:layout_height="0dp"
         android:layout_marginBottom="256dp"
